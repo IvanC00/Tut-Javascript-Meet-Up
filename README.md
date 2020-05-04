@@ -1,7 +1,7 @@
 # Tut-Javascript-Meet-Up
 
-Tutorial done creating a javascript meet-up application 
-Things Learnt:
+Tutorial done creating a javascript meet-up application.
+Things Learnt in the process:
 
 1. ES6 modules
 2. Making asynchronous ajax calls with fetch
