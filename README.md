@@ -7,3 +7,5 @@ Things Learnt in the process include:
 2. Making asynchronous ajax calls with fetch
 3. Handling asynchronous code with Promises
 4. Using the Chart.js library to display data
+5. Handling form submissions 
+6. Javascript Form validation
